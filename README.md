@@ -11,14 +11,15 @@
 
 [BioDrop](https://github.com/EddieHubCommunity/LinkFree) (previously known as LinkFree) is a platform where people in tech can have a single hub to showcase their content in order to accelerate their career, whilst contributing to an Open Source project and being part of a community that has a say in where the project is going.
 
-![BioDrop mockup](https://github.com/EddieHubCommunity/BioDropDesign/assets/22578094/0294fdde-cd71-4dc1-8378-90d1ff8ce510)
+![BioDrop mockup](https://github.com/EddieHubCommunity/BioDropDesign/assets/22578094/766d0dfa-9ce9-440e-9205-74e8c6d3ccc9)
+
 
 ## Research
 Latest: 📆 10–13 Aug (by [Kristian](https://github.com/sirkotsky))
 
 |[UX Audit](https://www.figma.com/file/R3T0OfvLPf21vqcd9XqXdO/LinkFree-Audit-%2B-Competitors?type=whiteboard&node-id=56-81&t=SoTkKF4BEmtZjxFb-4)|[Market Analysis](https://www.figma.com/file/R3T0OfvLPf21vqcd9XqXdO/LinkFree-Audit-%2B-Competitors?type=whiteboard&node-id=56-82&t=SoTkKF4BEmtZjxFb-4)|
 |-|-|
-|![LinkFree UX Audit](https://github.com/EddieHubCommunity/BioDropDesign/assets/22578094/a59292c3-90d5-4194-8d81-2530e28a78af)|![LinkFree Market Analysis](https://github.com/EddieHubCommunity/BioDropDesign/assets/22578094/f8e9ced4-3fb3-4e3a-ac48-cc5dc83df719)|
+|![UX Audit](https://github.com/EddieHubCommunity/BioDropDesign/assets/22578094/35bc5929-ef2e-41d8-932d-87710fa05800)|![Market Analysis](https://github.com/EddieHubCommunity/BioDropDesign/assets/22578094/d8b52e40-20ac-4490-b16c-0322857751eb)|
 
 ## 🚧 What are we working on?
 
@@ -28,7 +29,7 @@ Latest: 📆 10–13 Aug (by [Kristian](https://github.com/sirkotsky))
 - **Design**: [link](https://www.figma.com/file/R3T0OfvLPf21vqcd9XqXdO/LinkFree-Audit-%2B-Competitors?type=whiteboard&node-id=241-1499&t=SoTkKF4BEmtZjxFb-4)
 - **Status**: 🛠️ in development
 
-![LinkFree onboarding screens](https://github.com/EddieHubCommunity/BioDropDesign/assets/22578094/b441c2f2-f6a0-4f2a-9f98-9c5e8dc2c1ee)
+![Onboarding](https://github.com/EddieHubCommunity/BioDropDesign/assets/22578094/f4ecb1a0-934d-458a-b9e2-b8f32f6bfc0d)
 
 ## How can I help?
 
